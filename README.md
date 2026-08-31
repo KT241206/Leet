@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KT241206/Leet/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/KT241206/Leet/tree/master/0070-climbing-stairs) |
+| [2652-sum-multiples](https://github.com/KT241206/Leet/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
