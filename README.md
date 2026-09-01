@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KT241206/Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KT241206/Leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KT241206/Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/KT241206/Leet/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/KT241206/Leet/tree/master/2974-minimum-number-game) |
 ## Backtracking
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KT241206/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KT241206/Leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KT241206/Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/KT241206/Leet/tree/master/2942-find-words-containing-character) |
 ## Queue
 |  |
 | ------- |
