@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KT241206/Leet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KT241206/Leet/tree/master/0084-largest-rectangle-in-histogram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/KT241206/Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/KT241206/Leet/tree/master/2974-minimum-number-game) |
 ## Backtracking
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KT241206/Leet/tree/master/0387-first-unique-character-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/KT241206/Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Queue
 |  |
 | ------- |
