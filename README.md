@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KT241206/Leet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KT241206/Leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0977-squares-of-a-sorted-array](https://github.com/KT241206/Leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/KT241206/Leet/tree/master/1550-three-consecutive-odds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KT241206/Leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KT241206/Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/KT241206/Leet/tree/master/2942-find-words-containing-character) |
