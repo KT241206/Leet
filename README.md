@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KT241206/Leet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KT241206/Leet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0977-squares-of-a-sorted-array](https://github.com/KT241206/Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KT241206/Leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KT241206/Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/KT241206/Leet/tree/master/2974-minimum-number-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/KT241206/Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/KT241206/Leet/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/KT241206/Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KT241206/Leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
