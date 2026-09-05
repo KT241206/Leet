@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KT241206/Leet/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KT241206/Leet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0485-max-consecutive-ones](https://github.com/KT241206/Leet/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/KT241206/Leet/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KT241206/Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/KT241206/Leet/tree/master/1470-shuffle-the-array) |
