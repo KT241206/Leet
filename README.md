@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KT241206/Leet/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/KT241206/Leet/tree/master/0070-climbing-stairs) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KT241206/Leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/KT241206/Leet/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KT241206/Leet/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KT241206/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
