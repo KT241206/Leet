@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KT241206/Leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/KT241206/Leet/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KT241206/Leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/KT241206/Leet/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/KT241206/Leet/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/KT241206/Leet/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KT241206/Leet/tree/master/1822-sign-of-the-product-of-an-array) |
