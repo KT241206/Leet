@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KT241206/Leet/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/KT241206/Leet/tree/master/0070-climbing-stairs) |
+| [1486-xor-operation-in-an-array](https://github.com/KT241206/Leet/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KT241206/Leet/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KT241206/Leet/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/KT241206/Leet/tree/master/2652-sum-multiples) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KT241206/Leet/tree/master/0078-subsets) |
+| [1486-xor-operation-in-an-array](https://github.com/KT241206/Leet/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
 | ------- |
